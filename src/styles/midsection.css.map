@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAA;EACT,KAAK,EAAE,GAAG;CAKb;;AAND,AAEI,aAFS,CAET,GAAG,CAAA;EACC,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "midsection.scss"
+    ],
+    "names": [],
+    "file": "midsection.css"
+}

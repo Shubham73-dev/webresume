@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,CAAA;EACf,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,GAAG;EACd,OAAO,EAAE,IAAI;CAQhB;;AAZD,AAKI,mBALe,CAKf,eAAe,CAAA;EACX,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,cAAc;EAAE,eAAe;EACtD,kBAAkB,EAAE,eAAe;EAAC,YAAY;EAChD,QAAQ,EAAE,IAAI;EAAE,2BAA2B;EAC3C,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "mysection.scss"
+    ],
+    "names": [],
+    "file": "mysection.css"
+}

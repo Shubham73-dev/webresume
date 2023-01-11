@@ -1,0 +1,12 @@
+.card {
+  background-color: #000000 !important;
+  row-gap: 5px;
+  width: 100%;
+  padding: 10px;
+}
+
+.card i {
+  color: #52BA84;
+  font-size: 22px;
+}
+/*# sourceMappingURL=cards.css.map */

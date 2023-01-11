@@ -1,0 +1,13 @@
+.mySectionContainer{
+    background-color: #000000;
+    color: #fff;
+    max-width: 45%;
+    padding: 10px;
+    .cardsContainer{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2 columns */
+        grid-template-rows: repeat(2, auto);/* 2 rows */
+        grid-gap: 10px; /* gap between the items */
+        padding: 10px;
+    }
+}

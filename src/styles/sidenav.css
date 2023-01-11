@@ -1,0 +1,49 @@
+.sidenav_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  background-color: #000000;
+}
+
+.sidenav_container .btnsContainer .hamBergerMenu {
+  background-color: #52BA84;
+  border-radius: 0;
+  color: darkslategray;
+  width: 4rem;
+  height: 4rem;
+}
+
+.sidenav_container .btnsContainer .greenIcon {
+  color: #52BA84;
+  font-size: 25px;
+}
+
+.sidenav_container .profiles_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  row-gap: 8px;
+}
+
+.sidenav_container .profiles_container i {
+  color: #ccc;
+}
+
+.sidenav_container .profiles_container .greenIcon {
+  color: #52BA84;
+}
+/*# sourceMappingURL=sidenav.css.map */
